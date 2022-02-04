@@ -1,0 +1,7 @@
+{
+  "env": {
+      "MONGO_ATLAS_PW": "ldsedev",
+      "ADMIN_KEY": "ldse",
+      "PLAYER_KEY": "player"
+  }
+}
