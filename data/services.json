@@ -1,0 +1,90 @@
+{ 
+    "_id" : ObjectId("60ad02f792d30b05f3906c4b"), 
+    "serviceTimestamp" : 1621951223195.0, 
+    "timeForService" : 99952.36318804827, 
+    "consumer" : ObjectId("60acdf1c92d30b05f39053b5"), 
+    "provider" : ObjectId("60acdf4392d30b05f39053ba"), 
+    "typeOfService" : "Mechanical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad030192d30b05f3906c4f"), 
+    "serviceTimestamp" : 1621951233170.0, 
+    "timeForService" : 99952.36318804827, 
+    "consumer" : ObjectId("60acdf0692d30b05f39053b2"), 
+    "provider" : ObjectId("60acdf6892d30b05f39053bf"), 
+    "typeOfService" : "IT service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad030b92d30b05f3906c5b"), 
+    "serviceTimestamp" : 1621951243226.0, 
+    "timeForService" : 99952.36318804827, 
+    "consumer" : ObjectId("60acdf9c92d30b05f39053c5"), 
+    "provider" : ObjectId("60acdfad92d30b05f39053c7"), 
+    "typeOfService" : "Electrical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad031592d30b05f3906c67"), 
+    "serviceTimestamp" : 1621951253227.0, 
+    "timeForService" : 72648.87101641935, 
+    "consumer" : ObjectId("60ace00292d30b05f39053cd"), 
+    "provider" : ObjectId("60acdf1c92d30b05f39053b5"), 
+    "typeOfService" : "Electrical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad031f92d30b05f3906c72"), 
+    "serviceTimestamp" : 1621951263221.0, 
+    "timeForService" : 141415.33628252, 
+    "consumer" : ObjectId("60acdf6f92d30b05f39053c0"), 
+    "provider" : ObjectId("60acec0a92d30b05f39053d0"), 
+    "typeOfService" : "Electrical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad032992d30b05f3906c7d"), 
+    "serviceTimestamp" : 1621951273221.0, 
+    "timeForService" : 59849.930472327804, 
+    "consumer" : ObjectId("60acec1092d30b05f39053d1"), 
+    "provider" : ObjectId("60acdf9c92d30b05f39053c5"), 
+    "typeOfService" : "Mechanical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad033392d30b05f3906c86"), 
+    "serviceTimestamp" : 1621951283216.0, 
+    "timeForService" : 111899.26803223939, 
+    "consumer" : ObjectId("60acdf6892d30b05f39053bf"), 
+    "provider" : ObjectId("60acdf6192d30b05f39053be"), 
+    "typeOfService" : "Electrical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad033d92d30b05f3906c92"), 
+    "serviceTimestamp" : 1621951293195.0, 
+    "timeForService" : 125631.3425657924, 
+    "consumer" : ObjectId("60acdffa92d30b05f39053cc"), 
+    "provider" : ObjectId("60acdf0692d30b05f39053b2"), 
+    "typeOfService" : "Electrical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad034792d30b05f3906ca0"), 
+    "serviceTimestamp" : 1621951303189.0, 
+    "timeForService" : 125631.3425657924, 
+    "consumer" : ObjectId("60acdfad92d30b05f39053c7"), 
+    "provider" : ObjectId("60acdf2b92d30b05f39053b7"), 
+    "typeOfService" : "Mechanical service", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad035192d30b05f3906ca9"), 
+    "serviceTimestamp" : 1621951313211.0, 
+    "timeForService" : 141415.33628252, 
+    "consumer" : ObjectId("60acdf5992d30b05f39053bd"), 
+    "provider" : ObjectId("60acdfbf92d30b05f39053c9"), 
+    "typeOfService" : "IT service", 
+    "__v" : NumberInt(0)
+}

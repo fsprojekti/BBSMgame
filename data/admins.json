@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("5f9945a43173144c25fea161"), 
+    "username" : "Nejc", 
+    "password" : "$2b$10$.A0c3SJ3YSW5cD8AA8icQ.UXB/CapxRPLioDP1XKK8YPrSZkQ8Lm.", 
+    "gameIsOn" : false, 
+    "__v" : NumberInt(0), 
+    "miningTime" : ISODate("2021-05-25T14:01:53.284+0000")
+}
