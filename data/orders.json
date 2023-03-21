@@ -1,0 +1,160 @@
+{ 
+    "_id" : ObjectId("60acffe892d30b05f39068b7"), 
+    "timeForService" : 125631.3425657924, 
+    "provider" : ObjectId("60ace00292d30b05f39053cd"), 
+    "playerName" : "KlemenLa", 
+    "typeOfService" : "Mechanical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(200), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad00f892d30b05f3906a15"), 
+    "timeForService" : 159557.857796, 
+    "provider" : ObjectId("60acdf8192d30b05f39053c2"), 
+    "playerName" : "GašperS", 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(80), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad021f92d30b05f3906b5d"), 
+    "timeForService" : 111899.26803223939, 
+    "provider" : ObjectId("60acdf0d92d30b05f39053b3"), 
+    "playerName" : "MarkoZ", 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(70), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad025a92d30b05f3906ba3"), 
+    "timeForService" : 89558.555973602, 
+    "provider" : ObjectId("60acdf2392d30b05f39053b6"), 
+    "playerName" : "LukaN", 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(60), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad026492d30b05f3906bad"), 
+    "timeForService" : 111899.26803223939, 
+    "provider" : ObjectId("60acec1092d30b05f39053d1"), 
+    "playerName" : "LukaL", 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(65), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad02a492d30b05f3906bf6"), 
+    "timeForService" : 111899.26803223939, 
+    "provider" : ObjectId("60acdf4a92d30b05f39053bb"), 
+    "playerName" : "JanezZ", 
+    "typeOfService" : "Electrical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(95), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad02c392d30b05f3906c15"), 
+    "timeForService" : 99952.36318804827, 
+    "provider" : ObjectId("60acdf7892d30b05f39053c1"), 
+    "playerName" : "JakobŠ", 
+    "typeOfService" : "Electrical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(94), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad02c992d30b05f3906c1e"), 
+    "timeForService" : 125631.3425657924, 
+    "provider" : ObjectId("60acdf1492d30b05f39053b4"), 
+    "playerName" : "RokF", 
+    "typeOfService" : "Mechanical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(30000), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad030492d30b05f3906c53"), 
+    "timeForService" : 80515.94369703374, 
+    "provider" : ObjectId("60acdf6f92d30b05f39053c0"), 
+    "playerName" : "GregorM", 
+    "typeOfService" : "Mechanical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(190), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad030a92d30b05f3906c59"), 
+    "timeForService" : 125631.3425657924, 
+    "provider" : ObjectId("60acdf5292d30b05f39053bc"), 
+    "playerName" : "MatejČ", 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(55), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad032792d30b05f3906c7b"), 
+    "timeForService" : 159557.857796, 
+    "provider" : ObjectId("60acdf5992d30b05f39053bd"), 
+    "playerName" : "GregorG", 
+    "typeOfService" : "Mechanical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(220), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad033492d30b05f3906c8a"), 
+    "timeForService" : 111899.26803223939, 
+    "provider" : ObjectId("60acdeff92d30b05f39053b1"), 
+    "playerName" : "MatijaD", 
+    "typeOfService" : "Mechanical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(180), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad034092d30b05f3906c96"), 
+    "timeForService" : 80515.94369703374, 
+    "provider" : ObjectId("60acdfc692d30b05f39053ca"), 
+    "playerName" : "AleksR", 
+    "typeOfService" : "Mechanical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(190), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad034392d30b05f3906c9a"), 
+    "timeForService" : 141415.33628252, 
+    "provider" : ObjectId("60acdf3392d30b05f39053b8"), 
+    "playerName" : "DomenG", 
+    "typeOfService" : "Electrical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(70), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad034492d30b05f3906c9c"), 
+    "timeForService" : 99952.36318804827, 
+    "provider" : ObjectId("60acdffa92d30b05f39053cc"), 
+    "playerName" : "KlemenLe", 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(50), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad034c92d30b05f3906ca5"), 
+    "timeForService" : 99952.36318804827, 
+    "provider" : ObjectId("60acdfed92d30b05f39053cb"), 
+    "playerName" : "NejcM", 
+    "typeOfService" : "Electrical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(80), 
+    "__v" : NumberInt(0)
+}

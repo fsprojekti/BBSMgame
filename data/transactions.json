@@ -1,0 +1,113 @@
+{ 
+    "_id" : ObjectId("60acf21792d30b05f3905987"), 
+    "timeForService" : NumberInt(1), 
+    "consumer" : ObjectId("60acdf8192d30b05f39053c2"), 
+    "provider" : ObjectId("5f9945a43173144c25fea161"), 
+    "typeOfService" : "Stake", 
+    "amountOfService" : NumberInt(0), 
+    "price" : NumberInt(10), 
+    "txFee" : NumberInt(20), 
+    "typeOfTransaction" : "stake", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60acfe3092d30b05f3906697"), 
+    "timeForService" : NumberInt(1), 
+    "consumer" : ObjectId("60acdf8192d30b05f39053c2"), 
+    "provider" : ObjectId("5f9945a43173144c25fea161"), 
+    "typeOfService" : "Unstake", 
+    "amountOfService" : NumberInt(0), 
+    "price" : NumberInt(100), 
+    "txFee" : NumberInt(0), 
+    "typeOfTransaction" : "unstake", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad00de92d30b05f39069f0"), 
+    "timeForService" : NumberInt(1), 
+    "consumer" : ObjectId("60acdf8192d30b05f39053c2"), 
+    "provider" : ObjectId("5f9945a43173144c25fea161"), 
+    "typeOfService" : "Stake", 
+    "amountOfService" : NumberInt(0), 
+    "price" : NumberInt(100), 
+    "txFee" : NumberInt(20), 
+    "typeOfTransaction" : "stake", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad02af92d30b05f3906bff"), 
+    "timeForService" : 111899.26803223939, 
+    "consumer" : ObjectId("60acdf8192d30b05f39053c2"), 
+    "provider" : ObjectId("60acdf4a92d30b05f39053bb"), 
+    "typeOfService" : "Electrical service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(95), 
+    "txFee" : NumberInt(201), 
+    "typeOfTransaction" : "trade", 
+    "orderId" : ObjectId("60ad02a492d30b05f3906bf6"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad02b592d30b05f3906c09"), 
+    "timeForService" : 89558.555973602, 
+    "consumer" : ObjectId("60acdf5992d30b05f39053bd"), 
+    "provider" : ObjectId("60acdf2392d30b05f39053b6"), 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(60), 
+    "txFee" : NumberInt(300), 
+    "typeOfTransaction" : "trade", 
+    "orderId" : ObjectId("60ad025a92d30b05f3906ba3"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad02cc92d30b05f3906c22"), 
+    "timeForService" : 89558.555973602, 
+    "consumer" : ObjectId("60acdf3392d30b05f39053b8"), 
+    "provider" : ObjectId("60acdf2392d30b05f39053b6"), 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(60), 
+    "txFee" : NumberInt(287), 
+    "typeOfTransaction" : "trade", 
+    "orderId" : ObjectId("60ad025a92d30b05f3906ba3"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad032d92d30b05f3906c82"), 
+    "timeForService" : NumberInt(1), 
+    "consumer" : ObjectId("60acdf6f92d30b05f39053c0"), 
+    "provider" : ObjectId("5f9945a43173144c25fea161"), 
+    "typeOfService" : "Unstake", 
+    "amountOfService" : NumberInt(0), 
+    "price" : NumberInt(499), 
+    "txFee" : NumberInt(51), 
+    "typeOfTransaction" : "unstake", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad033492d30b05f3906c88"), 
+    "timeForService" : 125631.3425657924, 
+    "consumer" : ObjectId("60acdf5992d30b05f39053bd"), 
+    "provider" : ObjectId("60acdf5292d30b05f39053bc"), 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(55), 
+    "txFee" : NumberInt(310), 
+    "typeOfTransaction" : "trade", 
+    "orderId" : ObjectId("60ad030a92d30b05f3906c59"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ad034092d30b05f3906c98"), 
+    "timeForService" : 89558.555973602, 
+    "consumer" : ObjectId("60acdf5992d30b05f39053bd"), 
+    "provider" : ObjectId("60acdf2392d30b05f39053b6"), 
+    "typeOfService" : "IT service", 
+    "amountOfService" : NumberInt(1), 
+    "price" : NumberInt(60), 
+    "txFee" : NumberInt(310), 
+    "typeOfTransaction" : "trade", 
+    "orderId" : ObjectId("60ad025a92d30b05f3906ba3"), 
+    "__v" : NumberInt(0)
+}
